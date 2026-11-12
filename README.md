@@ -63,7 +63,12 @@ than an error.
 
 ## Price
 
-30 days free, no card. Then $5.99 a month or $60 a year, plus tax.
+**Beta testers: 2 years free.** The first 100 people to start Kustos before
+31 January 2027 get it free for two years, no card. After that they keep a
+founder price of $3 a month or $30 a year, for life. Details on
+[the pricing page](https://kustos.wiki/pricing).
+
+Once the beta closes: 30 days free, then $5.99 a month or $60 a year, plus tax.
 
 ## Coming from another tool?
 
